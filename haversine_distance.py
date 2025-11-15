@@ -9,7 +9,7 @@ Function that calculates the distance between two points given their coordinates
 from math import cos, sin, asin, sqrt, radians
 
 # Defina a function to calculate the distances
-def distance(lat1, lon1, lat2, lon2):
+def haversine(lat1, lon1, lat2, lon2):
     """
     Calculate the great circle distance between two points
     on the earth (specified in decimal degrees)
