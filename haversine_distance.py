@@ -1,11 +1,3 @@
-"""
-@author: Tarry
-
-type: FUNCTION	
-
-Function that calculates the distance between two points given their coordinates
-"""
-
 from math import cos, sin, asin, sqrt, radians
 
 # Defina a function to calculate the distances
